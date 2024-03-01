@@ -47,7 +47,7 @@ public class Calculadora {
         nm2 = teclado.nextInt();
         re = nm1 / nm2;
         System.out.println(re);
-        System.out.println("resultado ");
+        System.out.println("resultado 2 ");
         
         
         
